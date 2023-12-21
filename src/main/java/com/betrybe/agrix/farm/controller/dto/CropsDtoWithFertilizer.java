@@ -25,17 +25,4 @@ public record CropsDtoWithFertilizer(Long id, String name, Double plantedArea, L
       crops.getFertilizers().stream().map(FertilizerDto::fromEntity).toList()
     );
   }
-
-  // /**
-  //  * Transform a CropsDto into a Crops with fertilizer.
-  //  * 
-  // */
-  // public Crops toEntity() {
-  //   Crops crops = new Crops();
-  //   crops.setName(name);
-  //   crops.setPlantedArea(plantedArea);
-  //   crops.setHarvestDate(harvestDate);
-  //   crops.setPlantedDate(plantedDate);
-  //   return crops;
-  // }
 }
