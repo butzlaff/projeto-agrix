@@ -1,10 +1,11 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Projeto Agrix
+O projeto foi divido em 3 fases, A, B e C
+Este repositório contem o código final, sem os testes, os testes foram feitos na FASE B -> https://github.com/butzlaff/projeto-agrix-fase-b
+
+Projeto desenvolvido durante o curso de Desenvolvimento Web Full-Stack da Trybe, período de Eletiva Java.
+
+Api usando as técnicas que aprendi durante o curso.
+
+A proposta de Api é de um Gerenciador de Fazendas Simples.
+
+Utilizamos Java 17, JWT para autenticação, Java Spring Boot, Maven, Sprint Boot Security, JUniter para Testes.
